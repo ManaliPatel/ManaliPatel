@@ -2,5 +2,5 @@
 
 Here are some project examples:
 
-1) project 1
+1) Appium: https://github.com/ManaliPatel/Appium
 2) project 2
